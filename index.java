@@ -4,5 +4,6 @@ public class Sitairis5
 	{
 	String a = "this is a string";
 	System.out.println("fourth state");
+	System.out.println("third state");
 	}
 }
